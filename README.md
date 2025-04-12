@@ -1,20 +1,62 @@
 # 👋 Olá, eu sou o Diego Maia!
 
-Desenvolvedor com experiência em C#, .NET, Xamarin e desenvolvimento web. Apaixonado por criar soluções eficientes e escaláveis.
+Sou um desenvolvedor apaixonado por tecnologia e criação de soluções práticas. Tenho experiência em desenvolvimento backend e frontend, além de atuar com design gráfico e ferramentas visuais. Curioso por natureza, estou sempre aprendendo e evoluindo minhas habilidades.
 
-## 🚀 Tecnologias e Ferramentas
-- C#, .NET, ASP.NET
-- Xamarin, MAUI
-- HTML, CSS, JavaScript
-- SQL Server, MySQL
+---
 
-## 📂 Projetos em Destaque
-- [LojaVeiculos](https://github.com/DiegoMaia83/LojaVeiculos): Sistema de gerenciamento de veículos.
-- [AppControleGlicemia](https://github.com/DiegoMaia83/AppControleGlicemia): Aplicativo para monitoramento de glicemia.
+### 🚀 Tecnologias e Ferramentas
 
-## 📫 Contato
-- [LinkedIn](https://www.linkedin.com/in/seu-perfil)
-- [Portfólio](https://seuportfólio.com)
+#### 💻 Desenvolvimento Backend
+- **Linguagens & Frameworks**: C#, ASP Clássico, .NET Framework, .NET Core, .NET MAUI, Xamarin  
+- **Padrões & Estrutura**: XML, JSON
+
+#### 🎨 Desenvolvimento Frontend
+- **Linguagens & Tecnologias**: HTML, CSS, JavaScript, TypeScript  
+- **Frameworks & Bibliotecas**: Bootstrap, jQuery, Angular  
+- **UI & Marcação**: XAML
+
+#### 🗄️ Banco de Dados
+- **RDBMS**: MySQL, SQL Server
+
+#### ☁️ Serviços e Cloud
+- **Cloud Computing**: AWS  
+- **Infraestrutura Web**: Hospedagem de sites
+
+#### 🧠 Design Gráfico & UI/UX
+- **Ferramentas Adobe**: Photoshop, Illustrator, InDesign, After Effects, Premiere  
+- **Prototipação & Design**: Figma  
+- **Modelagem 3D**: 3D Studio Max
+
+---
+
+### 📂 Projetos em Destaque
+
+- 🔧 [**LojaVeiculos**](https://github.com/DiegoMaia83/LojaVeiculos)  
+  Sistema completo de gerenciamento de veículos com funcionalidades CRUD.
+
+- 📱 [**AppControleGlicemia**](https://github.com/DiegoMaia83/AppControleGlicemia)  
+  Aplicativo desenvolvido em Xamarin para controle de níveis de glicemia.
+
+- 💼 [**DevMaia-Portfolio**](https://github.com/DiegoMaia83/DevMaia-Portfolio)  
+  Portfólio pessoal com projetos e experiências profissionais.
+
+---
+
+### 📊 Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DiegoMaia83&show_icons=true&theme=radical)
+
+---
+
+### 📫 Contato
+
+- 🌐 [Portfólio](https://seusiteaqui.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/seu-perfil)
+- ✉️ Email: seuemail@exemplo.com
+
+---
+
+
 
 
 <!--
