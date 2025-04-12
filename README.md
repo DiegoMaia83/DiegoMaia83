@@ -50,9 +50,9 @@ Sou um desenvolvedor apaixonado por tecnologia e criação de soluções prátic
 
 ### 📫 Contato
 
-- 🌐 [Portfólio](https://seusiteaqui.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-perfil)
-- ✉️ Email: seuemail@exemplo.com
+- 🌐 [Portfólio](http://www.devmaia.com.br)
+- 💼 [LinkedIn](https://www.linkedin.com/in/maiadiego)
+- ✉️ Email: diego.maia83@gmail.com
 
 ---
 
