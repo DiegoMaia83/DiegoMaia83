@@ -31,6 +31,9 @@ Sou um desenvolvedor apaixonado por tecnologia e criação de soluções prátic
 
 ### 📂 Projetos em Destaque
 
+- 🔧 [**SIGV**](https://github.com/DiegoMaia83/Sigv)  
+  Sistema de gestão de veículos, com integração de aplicativo para laudos.
+  
 - 🔧 [**LojaVeiculos**](https://github.com/DiegoMaia83/LojaVeiculos)  
   Sistema completo de gerenciamento de veículos com funcionalidades CRUD.
 
